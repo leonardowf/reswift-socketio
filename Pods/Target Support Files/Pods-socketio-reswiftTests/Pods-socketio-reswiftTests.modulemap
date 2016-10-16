@@ -1,0 +1,6 @@
+framework module Pods_socketio_reswiftTests {
+  umbrella header "Pods-socketio-reswiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

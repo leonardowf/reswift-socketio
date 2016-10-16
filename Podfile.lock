@@ -1,0 +1,15 @@
+PODS:
+  - ReSwift (2.1.0)
+  - Socket.IO-Client-Swift (8.0.2)
+
+DEPENDENCIES:
+  - ReSwift
+  - Socket.IO-Client-Swift (~> 8.0.2)
+
+SPEC CHECKSUMS:
+  ReSwift: c13b76cb963c5ab2a137c9c6e74823cef4b81588
+  Socket.IO-Client-Swift: 136598e4a81a42b0e6855e7f94a0e5a6efdc5ff8
+
+PODFILE CHECKSUM: 1637199c30b4f384dbda674b2482d26c51d8ded4
+
+COCOAPODS: 1.0.1
