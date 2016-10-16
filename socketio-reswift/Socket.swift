@@ -16,7 +16,7 @@ class Socket: NSObject {
     override init() {
         super.init()
 
-        socket = SocketIOClient(socketURL: URL(string: "http://192.168.0.15:8080")!, config: [.log(true), .forcePolling(true)])
+        socket = SocketIOClient(socketURL: URL(string: "http://ec2-52-67-92-102.sa-east-1.compute.amazonaws.com:63908")!, config: [.log(true), .forcePolling(true)])
 
         register()
     }
